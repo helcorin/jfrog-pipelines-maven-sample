@@ -1,4 +1,4 @@
 gitProvider: myGithub
-artifactory: myGithub
+artifactory: Artifactory
 repoPath: helcorin/jfrog-pipelines-maven-sample
 deployerRepo: quickstarts-maven-local
