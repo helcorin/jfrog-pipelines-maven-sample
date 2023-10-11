@@ -1,4 +1,4 @@
-gitProvider: myGithub
-artifactory: my-test-app-libs-release-local
+gitProvider: Github
+artifactory: myGithub
 repoPath: helcorin/jfrog-pipelines-maven-sample
 deployerRepo: quickstarts-maven-local
